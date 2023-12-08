@@ -14,7 +14,7 @@ Chinar Holidays is an online platform exclusively dedicated to Kashmiri tourism.
 
 The home page welcomes users with an engaging layout, showcasing the beauty of Kashmir through captivating images and highlighting the key features of Chinar Holidays.
 
-![Home Page](/path/to/home.png)
+![Home Page](https://github.com/suhaill-ashraf/-Chinar-Holidays-Tour-and-Travel-/blob/main/website%20images/home.png)
 
 ### About
 
